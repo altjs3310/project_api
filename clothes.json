@@ -1,0 +1,74 @@
+[
+  {
+    "id":0,
+    "name":"whiteshirt",
+    "price": 10000,
+    "img": "/images/shirts/white-shirt.jpg"
+  },
+  {
+    "id":1,
+    "name":"blueshirt",
+    "price": 15000,
+    "img": "/images/shirts/blue-shirt.jpg"
+  }, 
+  {
+    "id":2,
+    "name":"greenshirt",
+    "price": 17000,
+    "img": "/images/shirts/green-shirt.jpg"
+  }, 
+  {
+    "id":3,
+    "name":"blackshirt",
+    "price": 20000,
+    "img": "/images/shirts/black-shirt.jpg"
+  },
+    {
+    "id":0,
+    "name":"blackpants",
+    "price": 15000,
+    "img": "/images/pants/black-pants.jpg"
+  },
+  {
+    "id":1,
+    "name":"graypants",
+    "price": 18000,
+    "img": "/images/pants/gray-pants.jpg"
+  }, 
+  {
+    "id":2,
+    "name":"orangepants",
+    "price": 13500,
+    "img": "/images/pants/orange-pants.jpg"
+  }, 
+  {
+    "id":3,
+    "name":"pinkpants",
+    "price": 20000,
+    "img": "/images/pants/pink-pants.jpg"
+  },
+    {
+    "id":0,
+    "name":"blazer",
+    "price": 50000,
+    "img": "/images/outers/blazer.jpg"
+  },
+  {
+    "id":1,
+    "name":"coat",
+    "price": 75000,
+    "img": "/images/outers/coat.jpg"
+  }, 
+  {
+    "id":2,
+    "name":"jacket",
+    "price": 37000,
+    "img": "/images/outers/jacket.jpg"
+  }, 
+  {
+    "id":3,
+    "name":"parka",
+    "price": 68000,
+    "img": "/images/outers/parka.jpg"
+  }
+]

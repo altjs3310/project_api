@@ -1,0 +1,26 @@
+[
+  {
+    "id":0,
+    "name":"blackpants",
+    "price": 15000,
+    "img": "/images/pants/black-pants.jpg"
+  },
+  {
+    "id":1,
+    "name":"graypants",
+    "price": 18000,
+    "img": "/images/pants/gray-pants.jpg"
+  }, 
+  {
+    "id":2,
+    "name":"orangepants",
+    "price": 13500,
+    "img": "/images/pants/orange-pants.jpg"
+  }, 
+  {
+    "id":3,
+    "name":"pinkpants",
+    "price": 20000,
+    "img": "/images/pants/pink-pants.jpg"
+  }
+]
