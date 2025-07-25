@@ -1,24 +1,24 @@
 [
   {
-    "id":0,
+    "id":30,
     "name":"blazer",
     "price": 50000,
     "img": "/images/outers/blazer.jpg"
   },
   {
-    "id":1,
+    "id":31,
     "name":"coat",
     "price": 75000,
     "img": "/images/outers/coat.jpg"
   }, 
   {
-    "id":2,
+    "id":32,
     "name":"jacket",
     "price": 37000,
     "img": "/images/outers/jacket.jpg"
   }, 
   {
-    "id":3,
+    "id":33,
     "name":"parka",
     "price": 68000,
     "img": "/images/outers/parka.jpg"
