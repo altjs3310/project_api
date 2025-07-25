@@ -1,27 +1,27 @@
 [
   {
-    "id":10,
+    "id":100,
     "name":"whiteshirt",
     "price": 10000,
     "img": "/images/shirts/white-shirt.jpg",
     "info": "WhiteShirt-infomation"
   },
   {
-    "id":11,
+    "id":101,
     "name":"blueshirt",
     "price": 15000,
     "img": "/images/shirts/blue-shirt.jpg",
     "info": "BlueShirt-infomation"
   }, 
   {
-    "id":12,
+    "id":102,
     "name":"greenshirt",
     "price": 17000,
     "img": "/images/shirts/green-shirt.jpg",
     "info": "GreenShirt-infomation"
   }, 
   {
-    "id":13,
+    "id":103,
     "name":"blackshirt",
     "price": 20000,
     "img": "/images/shirts/black-shirt.jpg",

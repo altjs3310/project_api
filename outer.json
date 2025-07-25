@@ -1,27 +1,27 @@
 [
   {
-    "id":30,
+    "id":300,
     "name":"blazer",
     "price": 50000,
     "img": "/images/outers/blazer.jpg",
     "info": "Blazer-infomation"
   },
   {
-    "id":31,
+    "id":301,
     "name":"coat",
     "price": 75000,
     "img": "/images/outers/coat.jpg",
     "info": "Coat-infomation"
   }, 
   {
-    "id":32,
+    "id":302,
     "name":"jacket",
     "price": 37000,
     "img": "/images/outers/jacket.jpg",
     "info": "Jacket-infomation"
   }, 
   {
-    "id":33,
+    "id":303,
     "name":"parka",
     "price": 68000,
     "img": "/images/outers/parka.jpg",
