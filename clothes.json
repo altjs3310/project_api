@@ -3,73 +3,85 @@
     "id":0,
     "name":"whiteshirt",
     "price": 10000,
-    "img": "/images/shirts/white-shirt.jpg"
+    "img": "/images/shirts/white-shirt.jpg",
+    "info": "WhiteShirt-infomation"
   },
   {
     "id":1,
     "name":"blueshirt",
     "price": 15000,
-    "img": "/images/shirts/blue-shirt.jpg"
+    "img": "/images/shirts/blue-shirt.jpg",
+    "info": "BlueShirt-infomation"
   }, 
   {
     "id":2,
     "name":"greenshirt",
     "price": 17000,
-    "img": "/images/shirts/green-shirt.jpg"
+    "img": "/images/shirts/green-shirt.jpg",
+    "info": "GreenShirt-infomation"
   }, 
   {
     "id":3,
     "name":"blackshirt",
     "price": 20000,
-    "img": "/images/shirts/black-shirt.jpg"
+    "img": "/images/shirts/black-shirt.jpg",
+    "info": "BlackShirt-infomation"
   },
-    {
+  {
     "id":4,
     "name":"blackpants",
     "price": 15000,
-    "img": "/images/pants/black-pants.jpg"
+    "img": "/images/pants/black-pants.jpg",
+    "info": "BlackPants-infomation"
   },
   {
     "id":5,
     "name":"graypants",
     "price": 18000,
-    "img": "/images/pants/gray-pants.jpg"
+    "img": "/images/pants/gray-pants.jpg",
+    "info": "GrayPants-infomation"
   }, 
   {
     "id":6,
     "name":"orangepants",
     "price": 13500,
-    "img": "/images/pants/orange-pants.jpg"
+    "img": "/images/pants/orange-pants.jpg",
+    "info": "OrangePants-infomation"
   }, 
   {
     "id":7,
     "name":"pinkpants",
     "price": 20000,
-    "img": "/images/pants/pink-pants.jpg"
+    "img": "/images/pants/pink-pants.jpg",
+    "info": "PinkPants-infomation"
   },
-    {
+  {
     "id":8,
     "name":"blazer",
     "price": 50000,
-    "img": "/images/outers/blazer.jpg"
+    "img": "/images/outers/blazer.jpg",
+    "info": "Blazer-infomation"
   },
   {
     "id":9,
     "name":"coat",
     "price": 75000,
-    "img": "/images/outers/coat.jpg"
+    "img": "/images/outers/coat.jpg",
+    "info": "Coat-infomation"
   }, 
   {
     "id":10,
     "name":"jacket",
     "price": 37000,
-    "img": "/images/outers/jacket.jpg"
+    "img": "/images/outers/jacket.jpg",
+    "info": "Jacket-infomation"
   }, 
   {
     "id":11,
     "name":"parka",
     "price": 68000,
-    "img": "/images/outers/parka.jpg"
+    "img": "/images/outers/parka.jpg",
+    "info": "Parka-infomation"
   }
 ]
 

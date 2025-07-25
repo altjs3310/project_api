@@ -3,24 +3,28 @@
     "id":20,
     "name":"blackpants",
     "price": 15000,
-    "img": "/images/pants/black-pants.jpg"
+    "img": "/images/pants/black-pants.jpg",
+    "info": "BlackPants-infomation"
   },
   {
     "id":21,
     "name":"graypants",
     "price": 18000,
-    "img": "/images/pants/gray-pants.jpg"
+    "img": "/images/pants/gray-pants.jpg",
+    "info": "GrayPants-infomation"
   }, 
   {
     "id":22,
     "name":"orangepants",
     "price": 13500,
-    "img": "/images/pants/orange-pants.jpg"
+    "img": "/images/pants/orange-pants.jpg",
+    "info": "OrangePants-infomation"
   }, 
   {
     "id":23,
     "name":"pinkpants",
     "price": 20000,
-    "img": "/images/pants/pink-pants.jpg"
+    "img": "/images/pants/pink-pants.jpg",
+    "info": "PinkPants-infomation"
   }
 ]
